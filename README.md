@@ -1,7 +1,7 @@
 ```css
 ```
 
-# Challenge Chapter 2 :fire:
+# Challenge Chapter 2:fire:
 Halo hai, Kak rizky dan temen-temen semuanya:wave:. So, disini challenge chapter 2 yang sudah ku selesaikan.
 <br> Beberapa widget atau component yang aku pakai (kalian bisa lihat previewnya dibawah ya):sparkles: :
 <br> * *note : StatusBar aku bikin transparent supaya lebih enak diliat aja* *
