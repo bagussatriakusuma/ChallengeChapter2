@@ -7,6 +7,7 @@ Halo hai, Kak rizky dan temen-temen semuanya:wave:. So, disini challenge chapter
 <br> * *note : StatusBar aku bikin transparent supaya lebih enak diliat aja* *
 <br>
 * EditText
+* TextView
 * ImageView
 * RecyclerView
 * ImageSlideShow `https://github.com/denzcoskun/ImageSlideshow`
