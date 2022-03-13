@@ -10,6 +10,7 @@ Halo hai, Kak rizky dan temen-temen semuanya:wave:. So, disini challenge chapter
 * ImageView
 * RecyclerView
 * ImageSlideShow `https://github.com/denzcoskun/ImageSlideshow`
+* OptRoundCardView `https://github.com/captain-miao/OptionRoundCardview`
 * CardView
 * Chronometer (Countdown Timer)
 * BottomNavigationView
