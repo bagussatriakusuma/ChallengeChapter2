@@ -10,7 +10,7 @@ Halo hai, Kak rizky dan temen-temen semuanya:wave:. So, disini challenge chapter
 * TextView
 * ImageView
 * RecyclerView
-* ImageSlideShow (Auto Image Slide - set every 2 second change) `https://github.com/denzcoskun/ImageSlideshow`
+* ImageSlideShow (Auto Image Slide) `https://github.com/denzcoskun/ImageSlideshow`
 * OptRoundCardView `https://github.com/captain-miao/OptionRoundCardview`
 * CardView
 * Chronometer (Countdown Timer)
